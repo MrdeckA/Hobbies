@@ -1,0 +1,6 @@
+package bj.example.user_forms
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
